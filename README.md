@@ -5,7 +5,8 @@
 <div class = "footer" align="center" style="margin-top: 15px">
     <a href="https://www.linkedin.com/in/fotispel/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height=50px alt="LinkedIn">
-    </a> 
+    </a>
+    &nbsp&nbsp
     <a href="https://www.facebook.com/Fotispel/" target="_blank">
         <img src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-white-f.png" height=50px alt="Facebook">
     </a>
