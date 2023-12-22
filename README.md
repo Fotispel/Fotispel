@@ -8,6 +8,6 @@
     </a>
     &nbsp&nbsp
     <a href="https://www.facebook.com/Fotispel/" target="_blank">
-        <img src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-white-f.png" height=50px alt="Facebook">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height=50px alt="Facebook">
     </a>
 </div>
