@@ -4,7 +4,7 @@
 
 <div class = "footer" align="center" style="margin-top: 15px">
     <a href="https://www.linkedin.com/in/fotispel/" target="_blank">
-        <img src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg#/media/File:LinkedIn_logo_initials.png" height=50px alt="LinkedIn">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height=50px alt="LinkedIn">
     </a>
     &nbsp&nbsp
     <a href="https://www.facebook.com/Fotispel/" target="_blank">
