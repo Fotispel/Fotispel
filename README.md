@@ -1,6 +1,7 @@
 <h1 style="font-family: Consolas">Fotis Pelantakis | Portfolio</h1>
 
-<p style="font-family: Consolas; font-size: 15px">I am a student in Computer Science Department of the University of Crete. I am interested in the field of Software Engineering and you can find some of my projects here!</p>
+<p style="font-family: Consolas; font-size: 15px"> I am a Computer Science graduate from the University of Crete. 
+    Here you can find some of my projects and work!</p>
 
 <div class = "footer" align="center" style="margin-top: 15px">
     <a href="https://www.linkedin.com/in/fotispel/" target="_blank">
